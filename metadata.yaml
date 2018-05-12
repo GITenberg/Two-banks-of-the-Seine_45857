@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '42659'
     url: http://www.gutenberg.org/2009/agents/42659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45857#Two-banks-of-the-Seine
 gutenberg_issued: '2014-06-01'
 gutenberg_type: Text
 identifiers:
